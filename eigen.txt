@@ -1,0 +1,14 @@
+% Model:              ME526FinalProject.mph
+% Version:            COMSOL 5.0.0.244
+% Date:               Apr 25 2015, 21:03
+% Dimension:          1
+% Nodes:              6
+% Expressions:        1
+% Description:        Point graph
+% X                       Height
+1                         38861.639203371626
+2                         39017.47056155154
+3                         241343.71370937527
+4                         241980.6357954329
+5                         330791.9175415003
+6                         330951.77155736304
